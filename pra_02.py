@@ -1,6 +1,8 @@
-a = 112
-b = 133
+a = int(input("Enter the first number: "))
+b = int(input("Enter the second number: "))
+
 print(a + b)
 print(a, "-", b)
-print("type of the a:", type(a))
-print("type of the b :", type(b))
+print("Type of the a:", type(a))
+print("Type of the b:", type(b))
+
