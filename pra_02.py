@@ -5,4 +5,4 @@ print(a + b)
 print(a, "-", b)
 print("Type of the a:", type(a))
 print("Type of the b:", type(b))
-
+print()
