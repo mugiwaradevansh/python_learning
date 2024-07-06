@@ -18,3 +18,6 @@ for k in range(5):
     print(k)
     if k == 4:
         print("I'm skipping 4")
+
+for i in range(1,11):
+    print(i)
