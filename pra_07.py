@@ -20,4 +20,11 @@ for k in range(5):
         print("I'm skipping 4")
 
 for i in range(1,11):
+    if i%2==1:
+        print(i)
+
+py = [i for i in range(1, 58)]
+for i in py:
     print(i)
+    if i == 45:
+        print(i * [3] + 300)
